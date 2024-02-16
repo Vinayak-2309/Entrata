@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T20:44:32 IST" name="Suite" finished-at="2024-02-16T20:46:10 IST" duration-ms="98440">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T20:44:32 IST" name="Test" finished-at="2024-02-16T20:46:10 IST" duration-ms="98440">
+      <class name="com.entrata.automation.entrata.base.EntrataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:44:32 IST" name="setUp" finished-at="2024-02-16T20:44:58 IST" duration-ms="26449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="propertyManagerLogin()[pri:1, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:44:58 IST" name="propertyManagerLogin" finished-at="2024-02-16T20:45:05 IST" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyManagerLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:45:05 IST" name="tearDown" finished-at="2024-02-16T20:45:06 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:45:06 IST" name="setUp" finished-at="2024-02-16T20:45:32 IST" duration-ms="26143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="mouseHover()[pri:2, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:45:32 IST" name="mouseHover" finished-at="2024-02-16T20:45:32 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHover -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:45:32 IST" name="tearDown" finished-at="2024-02-16T20:45:33 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:45:33 IST" name="setUp" finished-at="2024-02-16T20:46:06 IST" duration-ms="33113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigationToOtherTab()[pri:3, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:46:06 IST" name="navigationToOtherTab" finished-at="2024-02-16T20:46:08 IST" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationToOtherTab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.automation.entrata.base.EntrataTest@506ae4d4]" started-at="2024-02-16T20:46:08 IST" name="tearDown" finished-at="2024-02-16T20:46:10 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.automation.entrata.base.EntrataTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
